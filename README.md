@@ -14,7 +14,7 @@ Responsive (mobil & masaüstü uyumlu) tasarım
 
 Film/dizi listeleme yapısı
 
-Modern HTML, CSS ve JavaScript kullanımı
+Modern HTML vve CSS kullanımı
 
 🛠️ Kullanılan Teknolojiler
 
